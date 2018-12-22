@@ -1,0 +1,8 @@
+#Directories
+
+.vs/
+Debug/
+ConsoleDoom/Debug/
+#Files
+
+*.user
